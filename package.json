@@ -18,10 +18,10 @@
     }
   ],
   "devDependencies": {
-    "bencoding": "latest",
-    "bncode": "latest",
-    "dht-bencode": "latest",
-    "dht.js": "latest",
+    "bencoding": "0.0.1",
+    "bncode": "0.5.3",
+    "dht-bencode": "0.1.2",
+    "dht.js": "0.2.16",
     "matcha": "~0.7.0",
     "standard": "^9.0.2",
     "tap-spec": "~4.1.0",
